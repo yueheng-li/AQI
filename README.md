@@ -2,7 +2,7 @@
 空气质量监控（）
 
 ``` java
-http://d1.weather.com.cn/aqi_all/101070201.html?_=1499215081230
+http://d1.weather.com.cn/aqi_all/101070201.html?_=1499215081230(new Date().getTime())
 1010701：沈阳
 1010702：大连
 1010703：鞍山
